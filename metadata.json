@@ -1,0 +1,5 @@
+{
+  "name": "LearnCR GMAT Assistant",
+  "description": "An AI-powered tool to help GMAT test-takers break down and understand Critical Reasoning passages in real-time. Paste a passage, start the timer, and get a concise analysis of the argument's structure.",
+  "requestFramePermissions": []
+}
